@@ -1,7 +1,7 @@
-Drupal-7-Boilerplate
+Drupal 7 Boilerplate
 ====================
 
-Drupal 7 core bundled with my most used modules and themes. 
+Drupal 7 makefile which creates a fresh Drupal 7 installation with the modules and themes mentioned below.
 
 Base Themes:
 ------------
