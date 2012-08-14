@@ -13,33 +13,33 @@ Base Themes:
 Modules:
 --------
 
-*Chaos Tools
-*Context
-*Devel
-*Features
-*Custom Breadcrumbs
-*Field Group
-*Google Analytics
-*jQuery UI
-*Libraries API
-*Modernizr
-*Path Auto
-*References
-*Strongarm
-*Token
-*Page Title
-*CK Editor
-*jQuery Update
-*WYSIWYG
-*Views
-*Webform
-*XML Sitemap
-*Typekit
-*Google Fonts
-*Respond JS
-*APC
-*Block Class
-*Memcache
+* Chaos Tools
+* Context
+* Devel
+* Features
+* Custom Breadcrumbs
+* Field Group
+* Google Analytics
+* jQuery UI
+* Libraries API
+* Modernizr
+* Path Auto
+* References
+* Strongarm
+* Token
+* Page Title
+* CK Editor
+* jQuery Update
+* WYSIWYG
+* Views
+* Webform
+* XML Sitemap
+* Typekit
+* Google Fonts
+* Respond JS
+* APC
+* Block Class
+* Memcache
 
 Installation
 ============
