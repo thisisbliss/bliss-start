@@ -6,9 +6,9 @@ Drupal 7 core bundled with my most used modules and themes.
 Base Themes:
 ------------
 
-*960.gs
-*Omega
-*Zen
+* 960.gs
+* Omega
+* Zen
 
 Modules:
 --------
@@ -42,9 +42,9 @@ Modules:
 * Memcache
 
 Installation
-============
+------------
 
-Before installtion you will need to have the Drupal command line tool Drush installed on your system. If that's already the case clone the repository and compile using the following command:
+Before installation you will need to have the Drupal command line tool 'Drush' installed on your system. If that's already the case clone the repository and compile using the following command:
 
 	drush make /path/to/Drupal-7-Boilerplate.make /path/to/website
 
