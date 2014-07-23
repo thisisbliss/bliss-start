@@ -3,6 +3,12 @@ BLISS Start
 
 BLISS Start is a drush make file which will automate the process of creating an initial Drupal 7 installation and retrieving all the modules we use on a project to project basis.
 
+Prerequisite
+------------
+
+* Drush
+
+
 Base Themes
 ------------
 
