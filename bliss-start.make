@@ -43,4 +43,4 @@ projects[visual_website_optimizer][subdir] = "contrib"
 ; Themes
 ; --------
 projects[blissgo][type] = "theme"
-projects[blissgo][download][url] = "git@github.com:thebrainroom/BLISS-Go.git"
+projects[blissgo][download][url] = "https://github.com/thebrainroom/BLISS-Go.git"

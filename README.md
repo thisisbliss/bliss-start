@@ -50,3 +50,7 @@ Before installation you will need to have the Drupal command line tool 'Drush' i
 `drush make /path/to/bliss-start.make /path/to/website`
 
 path/to/website is the location of the folder you will be unpacking the Drupal core to.
+
+Alternatiely you can run the make file directly from source by doing:
+
+`drush make https://raw.githubusercontent.com/thebrainroom/bliss-start/master/bliss-start.make /path/to/website`
